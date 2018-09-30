@@ -4,6 +4,7 @@ def feature1():
     print(x)
     z = x+y
     print (z)
+    print("hello")
 
 if __name__ == "__main__":
     feature1()
